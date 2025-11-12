@@ -1,6 +1,12 @@
-# 👋 Hey there, I’m Dewmith
+# 👋 Hey there, I’m
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&width=1500&height=300&color=0:201996,100:0078ff&text=Dewmith%20WEERASENA&textBg=false&fontSize=64&fontAlign=50&fontAlignY=40&rotate=0&stroke=000000&desc=Data%20Engineer%20(M.Sc.)%20@%20EPF%20Montpellier,%20France |%20Machine learning%20%E2%80%A2%20Networking&fontColor=ffffff&strokeWidth=0.3"
+    alt="Dewmith WEERASENA header"
+  />
+</p>
 
-## 🎓 Data Science Engineer (Master’s in Data Engineering – EPF Montpellier, France)
+## About Me
 
 💻 I love working with data and networks, finding creative ways to make life easier, sometimes a bit more fun, for people.
 
@@ -43,4 +49,6 @@ Let's connect and create something fun!
 ### Follow me on 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewmith-weerasena-311a3a1a8/)
+
+
 
