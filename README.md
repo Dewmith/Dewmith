@@ -1,6 +1,6 @@
-## 👋 Hey there, I’m Dewmith
+# 👋 Hey there, I’m Dewmith
 
-### 🎓 Data Science Engineer (Master’s in Data Engineering – EPF Montpellier, France)
+## 🎓 Data Science Engineer (Master’s in Data Engineering – EPF Montpellier, France)
 
 💻 I love working with data and networks, finding creative ways to make life easier, sometimes a bit more fun, for people.
 
@@ -10,7 +10,37 @@ I enjoy turning messy data into something useful and building random projects th
 
 Let's connect and create something fun!
 
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MNE--Python-FF9800?style=for-the-badge&logo=&logoColor=white"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLURM%20Cluster-2E8B57?style=for-the-badge&logo=&logoColor=white"/>
+</p>
+
+---
 ### Follow me on 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewmith-weerasena-311a3a1a8/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_e_w_w_a/)
+
