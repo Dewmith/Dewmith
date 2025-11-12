@@ -1,4 +1,4 @@
-👋 Hey there, I’m Dewmith WEERASENA
+👋 Hey there, I’m Dewmith
 
 🎓 Data Science Engineer (Master’s in Data Engineering – EPF Montpellier, France)
 
