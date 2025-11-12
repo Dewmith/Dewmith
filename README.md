@@ -1,11 +1,11 @@
-👋 Hi, I'm Dewmith WEERASENA
+👋 Hey there, I’m Dewmith WEERASENA
 
-🎓 Master 2 Student in Data Engineering at EPF, Montpellier, France
+🎓 Data Science Engineer (Master’s in Data Engineering – EPF Montpellier, France)
 
-💻 Passionate about Machine Learning, Data Analysis, and Networking
+💻 I love working with data and networks, finding creative ways to make life easier, sometimes a bit more fun, for people.
 
-I am currently pursuing my Master's degree in Data Engineering, where I focus on the intersection of data science, machine learning, and network engineering. Throughout my academic journey, I have worked on several projects that involve building predictive models, analyzing large datasets, and developing networking solutions.
+I enjoy turning messy data into something useful and building random projects that make everyday life geekier or simpler (usually when am bored).
 
-I am always eager to learn and collaborate on innovative projects that push the boundaries of data technology.
+🚀 Always curious, always tinkering, always building something awesome.
 
-Let's connect and create something impactful!
+Let's connect and create something fun!
